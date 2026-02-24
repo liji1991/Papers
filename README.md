@@ -43,3 +43,4 @@
 | 方向 | 文件 | 说明 |
 |------|------|------|
 | robotics/unitree | [unitree.md](robotics/unitree/notes/unitree.md) | 宇树春晚机器人仿真体系与Sim2Real方案 |
+| robotics/unitree | [ASAP.md](robotics/unitree/notes/ASAP.md) | ASAP论文详解：用Delta动作模型对齐仿真与现实，实现敏捷人形机器人全身技能 |
